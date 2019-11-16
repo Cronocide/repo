@@ -1,5 +1,6 @@
-Origin: cronocide.com 
-Label: Cronocide's Toolbox
+Origin: Cronocide's Repo
+Label: Cronocide's Repo
+Icon: icon.png
 Suite: stable 
 Version: 1.0 
 Codename: ios 
