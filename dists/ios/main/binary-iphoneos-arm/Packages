@@ -1,0 +1,17 @@
+Package: com.cronocide.hostname
+Name: hostname
+Architecture: iphoneos-arm
+Priority: none
+Section: System
+Filename: pool/main/c/com.cronocide.hostname/com.cronocide.hostname_1.0.0_iphoneos-arm.deb
+Size: 2938
+SHA256: 141dede8f9f3794c51e850e4d0a57b68b868094710a2845feced280bb5cf66a1
+SHA1: bb9a056c9bb67cc199db01d78a03164f6c795242
+MD5sum: db3b82d9021b3b78fef3ec6a3746a1ed
+Description: Set or print name of current host system.
+Maintainer: Cronocide
+Author: The FreeBSD Project
+Tag: role::hacker
+Version: 1.0.0
+Installed-Size: 132
+

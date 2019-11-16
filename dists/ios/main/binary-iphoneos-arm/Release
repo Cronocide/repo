@@ -1,0 +1,7 @@
+Archive: stable
+Version: 1.0
+Component: main
+Origin: cronocide.com
+Label: Cronocide's Toolbox
+Architecture: iphoneos-arm
+Description: Tools that I use and have made publicly available to you.

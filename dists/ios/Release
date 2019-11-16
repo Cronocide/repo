@@ -1,0 +1,21 @@
+Origin: cronocide.com
+Label: Cronocide's Toolbox
+Suite: stable
+Codename: ios
+Version: 1.0
+Date: Sat, 16 Nov 2019 15:14:14 UTC
+Architectures: iphoneos-arm
+Components: main
+Description: Tools that I use and have made publicly available to you.
+MD5Sum:
+ b4bcd895dd39d76db3c2f344d6bafd77 527 main/binary-iphoneos-arm/Packages
+ b1cfb4d2f3e467d4b2ba3e6e8c7171ea 369 main/binary-iphoneos-arm/Packages.gz
+ ec7d842007f1f89ebd70173f6f434e3b 192 main/binary-iphoneos-arm/Release
+SHA1:
+ 1af19f31f5e8dfc50e5eb4bc5dfd8424629efbde 527 main/binary-iphoneos-arm/Packages
+ db31895f5100ec331006319912a18b2f857a9acf 369 main/binary-iphoneos-arm/Packages.gz
+ bd17d172f6eafb633a4db315b57b2889aa4d96a1 192 main/binary-iphoneos-arm/Release
+SHA256:
+ 858655ae42a3b768df8fc347c29d91339be2b0abab9826205786567857807a72 527 main/binary-iphoneos-arm/Packages
+ 080c3ea5466de99dbebb55876906ef8a1127fb763d13d7371715b5bce2ec2d11 369 main/binary-iphoneos-arm/Packages.gz
+ ab8eff0770863ac972eaa545e265648e99b23eeef83ff72a43488fe496df147e 192 main/binary-iphoneos-arm/Release
