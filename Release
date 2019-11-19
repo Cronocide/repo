@@ -1,0 +1,9 @@
+Origin: Cronocide's Repo
+Label: Cronocide's Repo
+Suite: stable 
+Version: 1.0 
+Codename: ios 
+Architectures: iphoneos-arm 
+Components: main 
+Description: Tools that I use and have made publicly available to you.
+SignWith: 69AAAED7EE850F85568215CFCF1F3FF8E9CE49A1
