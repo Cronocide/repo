@@ -3,19 +3,19 @@ Label: Cronocide's Repo
 Suite: stable
 Codename: ios
 Version: 1.0
-Date: Tue, 19 Nov 2019 22:03:04 UTC
+Date: Thu, 17 Dec 2020 22:41:39 UTC
 Architectures: iphoneos-arm
 Components: main
 Description: Tools that I use and have made publicly available to you.
 MD5Sum:
- b4bcd895dd39d76db3c2f344d6bafd77 527 main/binary-iphoneos-arm/Packages
- b1cfb4d2f3e467d4b2ba3e6e8c7171ea 369 main/binary-iphoneos-arm/Packages.gz
+ 6135a9a464fa77386551737a783772a0 1064 main/binary-iphoneos-arm/Packages
+ c46584fbb46d15cfff1412fddca2b00d 570 main/binary-iphoneos-arm/Packages.gz
  d5e387c48e8e36b1cb9bf4e5536d38b2 192 main/binary-iphoneos-arm/Release
 SHA1:
- 1af19f31f5e8dfc50e5eb4bc5dfd8424629efbde 527 main/binary-iphoneos-arm/Packages
- db31895f5100ec331006319912a18b2f857a9acf 369 main/binary-iphoneos-arm/Packages.gz
+ 71333eb627887aee7260b68cd624d6f929eb8e2d 1064 main/binary-iphoneos-arm/Packages
+ 5c669c42b30134f812f873792dd0b41d5ff274cb 570 main/binary-iphoneos-arm/Packages.gz
  9969d4338bcfcb6acdc5dca4181ec11e2c26e67a 192 main/binary-iphoneos-arm/Release
 SHA256:
- 858655ae42a3b768df8fc347c29d91339be2b0abab9826205786567857807a72 527 main/binary-iphoneos-arm/Packages
- 080c3ea5466de99dbebb55876906ef8a1127fb763d13d7371715b5bce2ec2d11 369 main/binary-iphoneos-arm/Packages.gz
+ 68b825ac44ed1f626aa87ef0838f39a2e9c1bff40dd29a0d9112a205c69a104d 1064 main/binary-iphoneos-arm/Packages
+ 515aba5e5559aeac6c8ffdff31f409a512ec1514840d0622bf08a46700f471f4 570 main/binary-iphoneos-arm/Packages.gz
  905de8db90e2a93ad9981b1ee3a19f13dcd42cdb8155d5a8d5b80c68c3fd1e21 192 main/binary-iphoneos-arm/Release

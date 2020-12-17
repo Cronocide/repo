@@ -15,3 +15,20 @@ Tag: role::hacker
 Version: 1.0.0
 Installed-Size: 132
 
+Package: com.cronocide.project2
+Name: Project 2
+Architecture: iphoneos-arm
+Priority: optional
+Section: net
+Filename: pool/main/c/com.cronocide.project2/com.cronocide.project2_0.0.1-4+debug_iphoneos-arm.deb
+Size: 98738
+SHA256: b1bed8b2f3acbf2e56dae3d63d779c8665b4db5da4bb8ad56f9a79a4437dea27
+SHA1: 4b45f7ab92338916110d16560baa61fb741e1f51
+MD5sum: 83e685fb08ffa0287481ba38b1e5bd06
+Description: An awesome application!
+Maintainer: Cronocide
+Author: Cronocide
+Depends: org.swift.libswift (>= 5.0)
+Version: 0.0.1-4+debug
+Installed-Size: 780
+
