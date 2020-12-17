@@ -6,4 +6,4 @@ Codename: ios
 Architectures: iphoneos-arm 
 Components: main 
 Description: Tools that I use and have made publicly available to you.
-DebOverride: override
+SignWith: 959E7DC78FA69682DF649DE9FD8B4EF03005E959

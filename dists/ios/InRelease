@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: Cronocide's Repo
 Label: Cronocide's Repo
 Suite: stable
@@ -19,3 +22,14 @@ SHA256:
  68b825ac44ed1f626aa87ef0838f39a2e9c1bff40dd29a0d9112a205c69a104d 1064 main/binary-iphoneos-arm/Packages
  515aba5e5559aeac6c8ffdff31f409a512ec1514840d0622bf08a46700f471f4 570 main/binary-iphoneos-arm/Packages.gz
  905de8db90e2a93ad9981b1ee3a19f13dcd42cdb8155d5a8d5b80c68c3fd1e21 192 main/binary-iphoneos-arm/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEElZ59x4+mloLfZJ3p/YtO8DAF6VkFAl/b4sMACgkQ/YtO8DAF
+6VmMhggAiJkl+7P7lkvn/fa021WuWpWI1TSnTEPXgsTBFqn0gQuBKPqpFjVp5WYr
+41f0CqB6+m4HZ++cfsiaxlBxL9J4HqLt68Wgmw/H1J+VJBQsjXQumXkzyR4sU67B
+Qu20A7mfECNUPYr+6ZUV+6NeFCkQUR3ShXz8uothUleK1fBTuoeDlAYdiHBifu0G
+WVXcFdj54+JQ6eoWDPioiYoZqMmlXxtnOJMz/bFJPPZY9mG39/5F8SXmcttcjCu7
+Rsjh1rKD+fT+gktH8rGFPQEZXlLumPeYvQz5WGKQ2Za5c6TfPUSsKNTJsGbR4Xqy
+q/ZzWhA9DN2Y5LV4U0Dgd7YVWsxCEQ==
+=qM0z
+-----END PGP SIGNATURE-----
