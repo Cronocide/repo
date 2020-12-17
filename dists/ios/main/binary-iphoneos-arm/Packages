@@ -18,8 +18,8 @@ Installed-Size: 132
 Package: com.cronocide.project2
 Name: Project 2
 Architecture: iphoneos-arm
-Priority: optional
-Section: net
+Priority: =none
+Section: Utilities
 Filename: pool/main/c/com.cronocide.project2/com.cronocide.project2_0.0.1-4+debug_iphoneos-arm.deb
 Size: 98738
 SHA256: b1bed8b2f3acbf2e56dae3d63d779c8665b4db5da4bb8ad56f9a79a4437dea27
