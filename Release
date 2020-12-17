@@ -1,9 +1,21 @@
 Origin: Cronocide's Repo
 Label: Cronocide's Repo
-Suite: stable 
-Version: 1.0 
-Codename: ios 
-Architectures: iphoneos-arm 
-Components: main 
+Suite: stable
+Codename: ios
+Version: 1.0
+Date: Thu, 17 Dec 2020 22:41:39 UTC
+Architectures: iphoneos-arm
+Components: main
 Description: Tools that I use and have made publicly available to you.
-SignWith: 69AAAED7EE850F85568215CFCF1F3FF8E9CE49A1
+MD5Sum:
+ 6135a9a464fa77386551737a783772a0 1064 main/binary-iphoneos-arm/Packages
+ c46584fbb46d15cfff1412fddca2b00d 570 main/binary-iphoneos-arm/Packages.gz
+ d5e387c48e8e36b1cb9bf4e5536d38b2 192 main/binary-iphoneos-arm/Release
+SHA1:
+ 71333eb627887aee7260b68cd624d6f929eb8e2d 1064 main/binary-iphoneos-arm/Packages
+ 5c669c42b30134f812f873792dd0b41d5ff274cb 570 main/binary-iphoneos-arm/Packages.gz
+ 9969d4338bcfcb6acdc5dca4181ec11e2c26e67a 192 main/binary-iphoneos-arm/Release
+SHA256:
+ 68b825ac44ed1f626aa87ef0838f39a2e9c1bff40dd29a0d9112a205c69a104d 1064 main/binary-iphoneos-arm/Packages
+ 515aba5e5559aeac6c8ffdff31f409a512ec1514840d0622bf08a46700f471f4 570 main/binary-iphoneos-arm/Packages.gz
+ 905de8db90e2a93ad9981b1ee3a19f13dcd42cdb8155d5a8d5b80c68c3fd1e21 192 main/binary-iphoneos-arm/Release
