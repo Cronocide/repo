@@ -1,3 +1,20 @@
+Package: com.cronocide.helloworld
+Name: HelloWorld
+Architecture: iphoneos-arm
+Priority: =none
+Section: =Utilities
+Filename: pool/main/c/com.cronocide.helloworld/com.cronocide.helloworld_0.0.1-1+debug_iphoneos-arm.deb
+Size: 37880
+SHA256: b44c0667bc2d4dc0c88edb546d7f0f57ceb60af6ae961cd842a44cceb65e341d
+SHA1: db541f7abc268a99dd04d3813f198741f01935ed
+MD5sum: ebd8586d440d35febddad1287dd5bd6d
+Description: An awesome application!
+Maintainer: Cronocide
+Author: Cronocide
+Depends: org.swift.libswift (>= 5.0)
+Version: 0.0.1-1+debug
+Installed-Size: 352
+
 Package: com.cronocide.hostname
 Name: hostname
 Architecture: iphoneos-arm
