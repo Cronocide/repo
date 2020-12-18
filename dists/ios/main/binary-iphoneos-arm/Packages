@@ -1,8 +1,8 @@
 Package: com.cronocide.helloworld
 Name: HelloWorld
 Architecture: iphoneos-arm
-Priority: =none
-Section: =Utilities
+Priority: none
+Section: Utilities
 Filename: pool/main/c/com.cronocide.helloworld/com.cronocide.helloworld_0.0.1-1+debug_iphoneos-arm.deb
 Size: 37880
 SHA256: b44c0667bc2d4dc0c88edb546d7f0f57ceb60af6ae961cd842a44cceb65e341d
