@@ -3,5 +3,5 @@ Version: 1.0
 Component: main
 Origin: Cronocide's Repo
 Label: Cronocide's Repo
-Architecture: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Description: Tools that I use and have made publicly available to you.

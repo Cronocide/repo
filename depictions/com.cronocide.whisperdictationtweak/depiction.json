@@ -1,0 +1,103 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.1",
+  "headerImage": "https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/header.png",
+  "tintColor": "#0A84FF",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/screenshots/3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Whisper Dictation replaces the keyboard's dictation key with [whisper.cpp](https://github.com/ggerganov/whisper.cpp), transcribing everything **on-device**. Your audio never leaves the phone.\n\n- Tap the mic key to start, tap again to insert the transcript.\n- Pick the Whisper model that fits your phone, from Tiny (75 MB) to Medium (1.5 GB). Models download from Settings and switching takes effect immediately.\n- Optional spoken punctuation turns \"comma\", \"period\" and \"question mark\" into the real marks.\n- Works in apps that never asked for microphone access.\n- Choose which apps use it under Settings → Whisper Dictation → Enabled Apps.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Updated",
+          "text": "November 10, 2026"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 16, rootless"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Size",
+          "text": "0.8 MB"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Cronocide"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionLayerView",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.0.0",
+              "fontWeight": "bold",
+              "fontSize": 16
+            },
+            {
+              "class": "DepictionLabelView",
+              "text": "November 10, 2026",
+              "fontWeight": "semibold",
+              "fontSize": 16,
+              "textColor": "#8E8E93",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- First release.\n- Transcribes the keyboard's dictation key on-device with whisper.cpp; no audio leaves the phone.\n- Records through a small microphone service, so dictation works in apps without their own\n  microphone permission.\n- Choose and download the Whisper model (Tiny, Base, Small or Medium) in Settings.\n- Optional spoken punctuation (\"comma\", \"period\", \"question mark\", …).\n- Per-app enable list.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        }
+      ]
+    }
+  ]
+}
