@@ -29,7 +29,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Whisper Dictation replaces the keyboard's dictation key with [whisper.cpp](https://github.com/ggerganov/whisper.cpp), transcribing everything **on-device**. Your audio never leaves the phone.\n\n- Tap the mic key to start, tap again to insert the transcript.\n- Pick the Whisper model that fits your phone, from Tiny (75 MB) to Medium (1.5 GB). Models download from Settings and switching takes effect immediately.",
+          "markdown": "Whisper Dictation replaces the keyboard's dictation key with [whisper.cpp](https://github.com/ggerganov/whisper.cpp), transcribing everything **on-device**. Your audio never leaves the phone.\n\n- Tap the mic key to start, tap again to insert the transcript.\n- Pick the Whisper model that fits your phone, from Tiny (75 MB) to Medium (1.5 GB). Models download from Settings and switching takes effect immediately.\n\nMade by AI with [Cronocide](https://cronocide.com).",
           "useSpacing": true
         },
         {
