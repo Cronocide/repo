@@ -1,6 +1,6 @@
 Archive: stable
 Version: 1.0
-Component: main
+Components: main
 Origin: Cronocide's Repo
 Label: Cronocide's Repo
 Architectures: iphoneos-arm iphoneos-arm64
