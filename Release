@@ -1,7 +1,8 @@
-Archive: stable
+Suite: stable
 Version: 1.0
 Components: main
 Origin: Cronocide's Repo
 Label: Cronocide's Repo
+Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Description: Tools that I use and have made publicly available to you.
