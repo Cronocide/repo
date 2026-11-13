@@ -1,0 +1,54 @@
+Package: com.cronocide.helloworld
+Name: Hello World
+Architecture: iphoneos-arm
+Priority: none
+Section: Utilities
+Filename: pool/main/c/com.cronocide.helloworld/com.cronocide.helloworld_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10646
+SHA256: fb456d524bc5fa77ee564f0127623d00ce217dafd5df7dfdaabac8d1c0a7aad8
+SHA1: c7594e7801ac2d4b3a05e03c9cc89383defff6b4
+MD5sum: 138eb72e2835428396f98f92fdde6f13
+Description: An awesome application!
+Maintainer: Cronocide
+Author: Cronocide
+Version: 0.0.1-1+debug
+Installed-Size: 144
+
+Package: com.cronocide.hostname
+Name: hostname
+Architecture: iphoneos-arm
+Priority: none
+Section: System
+Filename: pool/main/c/com.cronocide.hostname/com.cronocide.hostname_1.0.0_iphoneos-arm.deb
+Size: 2938
+SHA256: 141dede8f9f3794c51e850e4d0a57b68b868094710a2845feced280bb5cf66a1
+SHA1: bb9a056c9bb67cc199db01d78a03164f6c795242
+MD5sum: db3b82d9021b3b78fef3ec6a3746a1ed
+Description: Set or print name of current host system.
+Maintainer: Cronocide
+Author: The FreeBSD Project
+Tag: role::hacker
+Version: 1.0.0
+Installed-Size: 132
+
+Package: com.cronocide.whisperdictationtweak
+Name: Whisper Dictation
+Priority: optional
+Section: Tweaks
+Filename: pool/main/c/com.cronocide.whisperdictationtweak/com.cronocide.whisperdictationtweak_1.0.0_iphoneos-arm64.deb
+Size: 800324
+SHA256: 921714583a136272be3833d2c9f918dbeb1d8abbc8ac6368bb3b383abc320c98
+SHA1: 23c857b5d6310b00b40e4c439c8ce6b05cc7dd7f
+MD5sum: f48a001ff798d4914b9c92b778cc45a0
+Description: Hooks system dictation to transcribe locally with whisper.cpp instead of Apple's servers.
+Maintainer: Cronocide <anthropic@cronocide.com>
+Author: Cronocide <anthropic@cronocide.com>
+Depends: ellekit, firmware (>= 16.0), com.opa334.altlist, com.opa334.libsandy, preferenceloader
+Tag: role::user
+Icon: https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/icon.png
+Header: https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/header.png
+SileoDepiction: https://cronocide.com/repo/depictions/com.cronocide.whisperdictationtweak/depiction.json
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 3748
+

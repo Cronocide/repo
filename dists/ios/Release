@@ -3,19 +3,28 @@ Label: Cronocide's Repo
 Suite: stable
 Codename: ios
 Version: 1.0
-Date: Fri, 18 Dec 2020 00:18:36 UTC
-Architectures: iphoneos-arm
+Date: Wed, 11 Nov 2026 23:20:53 UTC
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Tools that I use and have made publicly available to you.
 MD5Sum:
  e89cca89371d6ed4139de4130f2d9b59 1037 main/binary-iphoneos-arm/Packages
- 43d36a262544170972ed0c7412c53627 544 main/binary-iphoneos-arm/Packages.gz
+ 8980f7d797020abe146cbed8d28ffdb4 544 main/binary-iphoneos-arm/Packages.gz
  d5e387c48e8e36b1cb9bf4e5536d38b2 192 main/binary-iphoneos-arm/Release
+ 43db7e2afd2e1d029e75f204b6fe17a1 1057 main/binary-iphoneos-arm64/Packages
+ 8ff5cc1f9646d984743f4f1ce8214b8f 539 main/binary-iphoneos-arm64/Packages.gz
+ f068e4a1d04ab5b64116cbce7461f786 194 main/binary-iphoneos-arm64/Release
 SHA1:
  748a5ce0a5ccd7757a8c68978234473261d6aca9 1037 main/binary-iphoneos-arm/Packages
- 81b2aaad9a561ca1906c8e18267fa210ded408cb 544 main/binary-iphoneos-arm/Packages.gz
+ 8d45da0f2c44770d947a3f4556bcde7027674241 544 main/binary-iphoneos-arm/Packages.gz
  9969d4338bcfcb6acdc5dca4181ec11e2c26e67a 192 main/binary-iphoneos-arm/Release
+ 56674d3fb811a34fbedd48df2e9c752bcc69d3af 1057 main/binary-iphoneos-arm64/Packages
+ f2908b736793a2d3601ca6abed73aada9502496f 539 main/binary-iphoneos-arm64/Packages.gz
+ 42729cc8ec8e16ac96311597359ac72ea872bc18 194 main/binary-iphoneos-arm64/Release
 SHA256:
  1755656ce48652c6391184d89d62c355591b9c3be6d2b12ac3cdf16637d85663 1037 main/binary-iphoneos-arm/Packages
- a830a71fea14c1de39bef81f995b636c6081697e531b6d5b56f5375f14f005e6 544 main/binary-iphoneos-arm/Packages.gz
+ e9dff38ef4a875ed0813eb086905ec1531e119e3648fa959e654892eed1c0c49 544 main/binary-iphoneos-arm/Packages.gz
  905de8db90e2a93ad9981b1ee3a19f13dcd42cdb8155d5a8d5b80c68c3fd1e21 192 main/binary-iphoneos-arm/Release
+ 57034a798f9f2c410fed12026f5d76dfe15c13ceb04b5520f2946294914c6f38 1057 main/binary-iphoneos-arm64/Packages
+ 2536067741a37b6862675b860163af9db0351dd3fbc5528a5be84f31230241bb 539 main/binary-iphoneos-arm64/Packages.gz
+ 645be139f4e025f5e729ec7e6bc569fc8dcaa5cebf12652842a09e26fcc3730b 194 main/binary-iphoneos-arm64/Release
